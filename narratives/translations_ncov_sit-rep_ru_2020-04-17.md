@@ -63,18 +63,18 @@ abstract: "Этот еженедельный отчет использует о�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Ресурсы по COVID-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+Мы подготовили некоторые ресурсы, которые помогут в интерпретации данных, представленных нами в этом отчете.
+#### Nextstrain Ресурсы  
+* [НАЧНИТЕ ЗДЕСЬ: Как читать филогенетические деревья](https://nextstrain.org/narratives/trees-background/).  
+* [Главная информация о коронавирусах](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Распространенные заблуждения](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Внешние Источники
+* [Спроси ученого & Часто Задаваемые Вопросы](https://covid19.fas.org/l/en).
+* [Ситуационные Отчеты Всемирной Организации Здравоохранения](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Ресурсы центра по контролю и профилактике заболеваний США](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Освещение COVID-19 в "Нью-Йорк таймс"](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
