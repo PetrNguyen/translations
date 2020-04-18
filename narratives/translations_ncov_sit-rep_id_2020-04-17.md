@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title: Analisis genomik penyebaran COVID-19. Laporan keadaan per 17-04-2020.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Erwin Sentausa
+  - Iskandar Adnan
 translatorLinks:
+  - https://www.linkedin.com/in/sentausa
+  - http://scholar.google.com/citations?user=eBn0ToYAAAAJ
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-date: "2020 April 17"
+date: "17 April 2020"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "Laporan mingguan ini menggunakan data genom yang terbuka untuk melacak penyebaran COVID-19. Pekan ini, kami berkonsentrasi pada perebakan di Amerika Serikat. Untuk sebagian besar wilayah AS, kami menemukan bukti terjadinya beberapa kali introduksi -- baik dari luar negeri maupun dalam negeri. Data ini menekankan bahwa keputusan yang dibuat oleh masing-masing negara bagian sangat mempengaruhi nasib negara bagian yang lain."
 
 ---
 
