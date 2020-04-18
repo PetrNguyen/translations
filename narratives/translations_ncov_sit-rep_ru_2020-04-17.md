@@ -33,16 +33,16 @@ abstract: "Этот еженедельный отчет использует о�
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [Содержание](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Справочные ресурсы](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [Об этих данных](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [Обновления для Нью-Йорка](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [Обновления для Калифорнии](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [Обновления для Среднего Запада](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [Обновления для Горных Штатов](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [Что вы можете предпринять](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [Благодарности](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
