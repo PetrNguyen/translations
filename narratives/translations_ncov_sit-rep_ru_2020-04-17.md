@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title: Геномный анализ распространения COVID-19. Ситуационный отчет 2020-04-17.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -21,9 +21,9 @@ translators:
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-date: "2020 April 17"
+date: "17 Апреля 2020"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "Этот еженедельный отчет использует общедоступные геномные данные для отслеживания распространения COVID-19. На этой неделе мы фокусируемся на вспышке в Соединенных Штатах. Для большинства областей США, мы находим свидетельства моногочисленных ввозов -- как международного, так и внутреннего происхождения. Эти данные подчеркивают, что решения, сделанные каждым штатом, сильно влияют на судьбу других."
 
 ---
 
