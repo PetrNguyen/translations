@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title: COVID-19 확산에 대한 유전체 분석. 2020년 4월 17일 상황 보고서
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Taehoon Ha
 translatorLinks:
+  - https:://taehoonh.github.io
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이 보고서는 매주 업데이트 됩니다. 이번 주, 저희는 미국의 유행에 초점을 맞추어 보았습니다. 대부분의 미국 지역에서 다수의 미국 내/외로부터 온 유입을 뒷받침하는 증거를 발견했습니다. 이 데이터는 각 주에서 내린 결정이 다른 주의 운명에 지대한 영향을 미친다는 것을 알려줍니다."
 
 ---
 
@@ -33,29 +35,31 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [목차](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [뉴욕의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [캘리포니아의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [중서부 지역의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [로키 산맥 서쪽 지역의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 개요
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+저희는 미국으로부터 온 1,347개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 지역에서 확산되고 있는지 분석할 수 있습니다.
 
-* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* The outbreak in California is related to both nearby Washington State and distant New York.  
-* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
+이번 주 보고서에서 새로 추가된 것들:
+
+* 뉴욕의 유행은 전세계로부터 비롯되었지만, 유럽으로부터 유입이 대다수를 차지합니다. 
+* 뉴욕 시티에서의 유행은 5개 자치구 사이에서 뒤섞임이 있었다는 것을 보여줍니다.
+* 캘리포니아의 유행은 인근 워싱턴 주와 멀리 떨어진 뉴욕과 관련이 있습니다.
+* 중서부 지역의 유행은 다른 형태를 띄며, 서로 다른 여러 유입의 결과입니다.
+* 유타 주와 아이다호 주에서 진행되는 확산은 서로 밀접한 관련이 있습니다.
+* 각 주에서 내린 결정은 다른 주의 운명에 큰 영향을 미칩니다. 어떤 주에서든 안전하게 제한을 완화하려면, 모든 주들이 서로를 보호하기 위해 조직적인 억제책이 필요할 것입니다.
 
 
 ```
@@ -64,127 +68,127 @@ We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
+#### Nextstrain 관련자료
+* [여기부터 시작하세요: 계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).
+* [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
+* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### 외부 자료
+* [과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/l/en).
+* [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [미국 질병통제예방센터 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [뉴욕타임즈 코로나19 커버리지](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [데이터 수집 관련 사항](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+현재 저희는 36개 주에서 얻은 분리된 바이러스의 RNA 염기서열 정보를 해독했습니다. 이는 엄청난 성과입니다. 큰 RNA 유전체를 가진 미지의 바이러스의 염기서열 정보를 유행 와중에 얻는 것은 굉장히 어렵습니다. 이는 전 세계의 과학자와 의료인들의 신속한 정보공유와 헌신이 아니었다면 불가능했을 것입니다.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+이 데이터를 활용하면 유행의 여러 특성을 실시간으로 유추할 수 있지만 저희의 결론은 현재 활용가능한 데이터에만 국한됩니다.
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+예를 들어, 아래의 지도는 미국 중부에서 채취된 바이러스가 매우 적음을 보여줍니다. 이는 그 지역에 코로나19 유행이 없어서도, 다른 지역보다 덜 중요해서도 아닙니다. 단지 그 지역에서 수집된 데이터가 부족하다는 것을 의미합니다. 지도 상의 원의 크기는 그 지역에서 얻은 데이터의 양을 의미할 뿐 실제 유행의 규모와는 무관합니다.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [주요 뉴욕 분기군은 유럽과 관련됨](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+[이번 주 뉴스](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html) 에서 알 수 있듯이, 뉴욕의 바이러스 표본(녹색)은 대부분 유럽(회색)의 표본과 밀접한 관련이 있습니다.
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+뉴욕 분기군은 유럽 사례들과 나란히 위치하기도 하고 서로 얽혀있기도 한데, 이는 대부분의 초기 사례들이 유럽으로부터 유입되었음을 시사합니다.
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [다수의 뉴욕 유입](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+뉴욕 유행의 대부분은 유럽으로부터의 유입이 발단이 되었습니다. 그러나 다른 지역으로부터 온 염기서열 간 맥락을 살펴보면, 뉴욕으로의 추가적인 유입이 있다는 것을 확인할 수 있습니다. 뉴욕의 국제적인 특징으로 인해, 뉴욕 사례들은 전세계의 다른 모든 지역과 밀접한 관련이 있습니다.
 <br><br>
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+초기 뉴욕 사례들은 외부에서의 전송 가능성이 높습니다. 하지만 나중에는, 유럽과 뉴욕 사례들이 서로 뒤섞인 것을 확인할 수 있었고, 그 전송 방향이 불명확해졌습니다. [지난 주 보고](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=11) 한 것처럼, 최근 미국에서 유럽과 아시아로 재유입된 증거도 있습니다.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [뉴욕시 5개 자치구 내 사례 혼합](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+뉴욕시 내 자치구 별 사례들이 거의 구분되지 않습니다. 이것은 도시 전역에 걸쳐 빈번한게 사례들이 뒤섞였다는 것을 의미합니다.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [캘리포니아의 유행은 인근 주와 멀리 떨어진 주 모두와 관련됨](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+또한 주들 사이에 여러 번의 유입이 있었다는 증거를 확인했습니다. 예를 들어, 캘리포니아 사례는 계통수의 유전적 다양성을 아우르며, 인근 워싱턴 주와 뉴욕의 사례들과 함께 묶입니다. 이는 캘리포니아와 가까운 주들, 그리고 멀리 떨어진 주 사이의 전송이 있었다는 증거입니다.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [중서부 지역의 유행은 다수의 유입으로부터 비롯됨](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+미국 중서부의 염기서열 자료를 비춰볼 때, 이 지역 사례들이 일련의 사례군을 형성하는 것이 아니라 계통수 전체에 고르게 분포되어 있는 것이 보입니다. 이는 여러 개의 서로 다른 전파 연쇄가 동시에 순환하면서 이들 주로 다수의 독립적인 유입이 있었음을 보여줍니다.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [로키 산맥 서쪽 지역의 유행은 서로 밀접한 관련이 있음](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+로키 산맥 서쪽 지역으로의 유입도 몇 차례 있었습니다. 지도를 확대해 보면, 잘 알려지지 않은 전파 연쇄가 아이다호를 가로지르는 것을 볼 수 있습니다. 특히, 이 일련의 사례들이 유타 주 사례들 인근에 위치하는 것으로 미루어 보아, 이 두 지역의 유행이 서로 밀접하게 관련되어 있음을 알 수 있습니다.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Wear a mask in public.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### 개인이 할 수 있는 것들
+* 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
+* 공공장소에서 마스크를 착용하십시오.
+* 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오. 
+* 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
+* 당신이 고용주라면 직원들이 집에서 일할 수 있도록 해주세요.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### 지도자와 관료들이 할 일
+* 검사가 무료로 광범위하게 이뤄질 수 있도록 하십시오.
+* 엄격한 사회적 거리두기가 이뤄질 수 있도록 하십시오.
+* 광범위한 접촉 경로 추적과 격리에 재정을 지원하고 실행하십시오.  
+* 사회적 거리두기로 인해 피해를 입은 사람들을 위해 경제적 지원을 해주십시오.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 기억할 점들
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+* 뉴욕 유행의 대부분은 유럽으로부터 비롯되었지만, 세계 다른 지역으로부터의 유입도 있었습니다.
 <br><br>
-* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
+* 확산이 진행되면서 미국에서 유럽과 아시아로의 재유입이 이루어졌다는 증거를 발견했습니다.
 <br><br>
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.
+* 뉴욕 시티에서의 유행은 5개 자치구 사이에서 뒤섞임이 있었다는 것을 보여줍니다.
 <br><br>
-* The outbreak in California is related to both nearby Washington State and distant New York.
+* 캘리포니아의 유행은 인근 워싱턴 주와 멀리 떨어진 뉴욕과 관련이 있습니다.
 <br><br>
-* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
+* 중서부 지역의 유행은 다른 형태를 띄며, 여러 개의 전파 연쇄가 지역 내에서 순환 중입니다.
 <br><br>
-* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
+* 유타 주와 아이다호 주에서 진행되는 확산은 서로 밀접한 관련이 있으며, 지역사회 전파가 진행 중입니다.
 <br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* 각 주에서 내린 결정은 다른 주의 운명에 상당한 영향을 미칩니다. 어떤 주에서든 안전하게 제한을 완화하려면, 모든 주들이 서로를 보호하기 위한 조직적인 억제책이 필요할 것입니다.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -197,14 +201,13 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+이번 유행에 관련된 모든 과학자들, 특히 중국의 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+이 데이터는 [GISAID](https://gisaid.org) 를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
@@ -680,14 +683,13 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+우측에 각 연구실이 기여한 구체적인 서열 정보가 있습니다.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
