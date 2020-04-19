@@ -76,11 +76,11 @@ abstract: "این گزارش‌های هفتگی از داده‌های کووی
 #### Nextstrain منابع   
 * [از اینجا شروع کنید: چگونه درخت‌های ژنتیکی را بخوانید](https://nextstrain.org/narratives/trees-background/).  
 * [پیش‌زمینه در مورد ویروس کرونا](https://nextstrain.org/help/coronavirus/human-CoV).
-* [باور‌های نادرست متداول](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [باور‌های متداول نادرست](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### منابع فراتر    
 * [از یک دانشمند بپرسید و سوالات متداول](https://covid19.fas.org/l/en).
-* [گزارش وضعیت سازمان بعداشت جهانی](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [گزارش وضعیت سازمان بهداشت جهانی](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC منابع](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 * [پوشش خبری مجله نیویورک تایمز در‌ارتباط با همه‌گیری کووید ۱۹](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
