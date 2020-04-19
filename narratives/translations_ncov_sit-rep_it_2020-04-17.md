@@ -1,5 +1,6 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+<!--title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.-->
+title: Analisi genomica della diffusione del COVID-19. Rapporto della situazione aggiornato al 17 Aprile 2020. 
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +18,17 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: 
+- Alessia Lepore
 translatorLinks:
+- https://twitter.com/meklab
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-date: "2020 April 17"
+date: "17 Aprile 2020"
+<!--date: "2020 April 17"-->
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+<!--abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."-->
+abstract: Questo rapporto usa dati genomici virali pubblicamente condivisi per tracciare la diffusione del COVID-19. Questa settimana, il rapporto è focalizzato sul'epidemia negli Stati Uniti. Per la maggioranza delle zone negli Stati Uniti, abbiamo trovato prove di introduzioni multiple del virus-- di provenienza sia internaziole che domestica. Ciò sottolinea come le decisioni prese da un singolo stato possano influenzare profondamente il destino degli altri. 
 
 ---
 
