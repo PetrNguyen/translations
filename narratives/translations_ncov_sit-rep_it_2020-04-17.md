@@ -38,17 +38,25 @@ abstract: Questo rapporto usa dati genomici virali pubblicamente condivisi per t
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+<!--# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)-->
+# [Sommario](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
-
+<!--* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).-->
+* [Risorse di base](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).  
+<!--* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).-->
+* [Riguardo questi dati](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+<!--* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).-->
+* [Aggiornamenti su New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+<!--* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).-->
+* [Aggiornamenti sulla California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+<!-- * [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).-->
+* [Aggiornamenti sugli Stati Uniti medio occidentali](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+<!-- * [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).-->
+* [Aggiornamenti sugli Stati delle Montagne Rocciose](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+<!--* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).-->
+* [Cosa puoi fare](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+<!-- * [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).-->
+* [Ringraziamenti scientifici](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Executive summary
