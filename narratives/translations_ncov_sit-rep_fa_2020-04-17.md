@@ -47,7 +47,7 @@ abstract: "این گزارش‌های هفتگی از داده‌های کووی
 * [به‌روزرسانی گزارش کالیفرنیا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
 * [به‌روزرسانی گزارش ایالت‌های میانه غربی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
 * [به‌روزرسانی گزارش غرب رشته‌کوههای راکی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [کارهای که شما می‌توانید انجام دهید](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [کارهایی که شما می‌توانید انجام دهید](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
 * [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
