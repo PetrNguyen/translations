@@ -17,7 +17,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: 
+  - Varvara Kozyreva
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
@@ -81,12 +82,12 @@ abstract: "Этот еженедельный отчет использует о�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Заметка о сборе образцов](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+На данный момент нам доступны образцы, собранные в 36 штатах. Это необыкновенное достижение, так как cеквенирование генома нового крупного РНК-вируса в состоянии пандемии является сложной задачей и возможно только благодаря необычайной работе и своевременному предоставлению данных в общий доступ учеными и врачами со всего мира.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Хотя эти данные позволяют нам предсказывать многие важные характеристики вспышки и отслеживать ее распространение в реальном времени, важно подчеркнуть, что наши выводы ограничиваются доступными данными.
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Например, карта показывает относительно немногочисленные последовательности из Центральных Штатов Америки. Причина состоит НЕ в том, что COVID-19 не циркулирует в этих местностях, или в том, что эти случаи неважны для понимания, а в том, что мы попросту не обладаем большим количеством данных из этих регионов. Размер каждого круга на карте отображает сколько данных доступно из этой местности, а не реальный размер вспышки.
 
 <!-- There is NO right-side text -->
 
