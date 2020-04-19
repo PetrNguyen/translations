@@ -131,7 +131,7 @@ Ad esempio, la cartina mostra poche sequenze dagli Stati Uniti centrali. Questo 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
 <!-- # [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)-->
-# [Clade principale di New York è legato al focolaio europeo](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [Il clade principale di New York è legato al focolaio europeo](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
 <!-- As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).-->
 Come potresti aver visto [nelle notizie di questa settimana](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), la maggior parte dei campioni virali provenienti da New York (a colori) si raggruppa strettamente con campioni provenienti dall'Europa (in grigio).
