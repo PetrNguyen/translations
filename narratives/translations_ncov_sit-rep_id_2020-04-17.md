@@ -50,16 +50,16 @@ abstract: "Laporan mingguan ini menggunakan data genom yang terbuka untuk melaca
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Ringkasan
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+Kami menganalisis 1.347 genom SARS-CoV-2 dari AS yang tersedia untuk publik. Dengan memperbandingkan genomnya, kami dapat mengkarakterisasi bagaimana SARS-CoV-2 beredar di seantero jagat dan menular secara lokal. Pada pembaruan pekan ini, kami melaporkan:  
 
-* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* The outbreak in California is related to both nearby Washington State and distant New York.  
-* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
+* Wabah di New York memiliki asal kosmopolitan, namun mayoritas kasusnya terpaut dengan introduksi dari Eropa.   
+* Wabah di Kota New York menunjukkan percampuran kasus di kelima 5 borough.  
+* Wabah di Kalifornia berkaitan dengan Washington State yang dekat sekaligus New York yang lebih jauh.  
+* Wabah di Midwest bersifat heterogen yang terbentuk oleh banyak introduksi terpisah.
+* Wabah yang sedang terjadi si Utah dan Idaho sangat terkait erat.
+* Keputusan yang dibuat oleh masing-masing negara bagian sangat berpengaruh pada wilayah sekelilingnya. Pembatasan yang dilakukan memerlukan kerja sama antarnegara bagian sehingga dapat berperan saling melindungi.
 
 
 ```
