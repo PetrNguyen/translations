@@ -136,9 +136,9 @@ abstract: "Этот еженедельный отчет использует о�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [Вспышки на Среднем Западе были посеяны многими ввозами](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+Выделяя последовательности из Среднего Запада США, мы видим, что случаи из этой области распределены равномерно по всему дереву, а не образуют серию плотных кластеров. Это говорит нам о том, что в эти штаты было много независимых ввозов, с несколькими различными цепочками передачи, циркулирующими одновременно.
 
 <!-- This is no right-side text -->
 
