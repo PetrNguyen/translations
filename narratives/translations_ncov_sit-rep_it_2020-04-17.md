@@ -50,7 +50,7 @@ abstract: Questo rapporto usa dati genomici virali pubblicamente condivisi per t
 <!--* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).-->
 * [Aggiornamenti sulla California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
 <!-- * [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).-->
-* [Aggiornamenti sugli Stati Uniti medio occidentali](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [Aggiornamenti sugli Stati Uniti del Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
 <!-- * [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).-->
 * [Aggiornamenti sugli Stati delle Montagne Rocciose](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
 <!--* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).-->
@@ -73,7 +73,7 @@ Abbiamo analizzato 1347 genomi condivisi pubblicamente del virus SARS-Cov-2 prov
 <!-- * The outbreak in California is related to both nearby Washington State and distant New York.-->   
 * L'epidemia in California è legata sia al vicino stato di Washington che al lontano stato di New York. 
 <!-- * The Midwest outbreak is heterogeneous and is the result of many independent introductions.-->  
-* L'epidemia negli Stati Uniti medio occidentali è etereogenea è ed il risultato di molte introduzioni indipendenti del virus. 
+* L'epidemia negli Stati Uniti del Midwest è etereogenea è ed il risultato di molte introduzioni indipendenti del virus. 
 <!-- * Ongoing outbreaks in Utah and Idaho are closely related.-->  
 * I focolai in atto nello Utah e nell'Idaho sono strettamente correlati.
 <!-- * The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.-->  
@@ -85,18 +85,29 @@ Abbiamo analizzato 1347 genomi condivisi pubblicamente del virus SARS-Cov-2 prov
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+<!-- # [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)-->
+# [Risorse sul COVID-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+<!--We've prepared some resources that will make interpreting the data we present in this narrative easier.-->
+Abbiamo preparato alcune letture che aiuteranno a capire più facilmente i dati che presentiamo in questo sito.
+<!-- #### Nextstrain Resources --> 
+#### Risorse su Nextstrain  
+<!-- * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).--> 
+* [INIZIA QUI: come leggere gli alberi filogenetici](https://nextstrain.org/narratives/trees-background/it/).  
+<!--* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV). --> 
+* [Informazioni di base sui virus della famiglia Coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+<!-- * [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).--> 
+* [Convinzioni errate](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+<!--  #### External Resources --> 
+#### Ulteriori Risorse  
+<!-- * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en). --> 
+* [Chiedi ad uno scienziato & domande frequenti](https://covid19.fas.org/l/en).
+<!--  * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports). --> 
+* [Rapporti dell'OMS sulla situazione](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+<!-- * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).--> 
+* [Informazioni a cura del CDC (Centers for Disease Control and Prevention)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+<!-- * [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).--> 
+* [Notizie sull'epidemia di COVID-19 sul New York Times](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
