@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title: آنالیز ژنتیکی شیوع ویروس کووید-۱۹. شرح گزارش ۱۷آوریل ۲۰۲۰. 
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,18 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Arman Karshenas
+  - Marziye Jafariyazani
+translatorLinks:
+  - https://twitter.com/ArmanKarshenas
+  - https://github.com/marziye-jy
 translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-date: "2020 April 17"
+date: "هفدهم آوریل ۲۰۲۰"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
 abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "این گزارش‌های هفتگی از داده‌های کووید-۱۹ که در اختیار عموم گذاشته‌شده برای بررسی شیوع این بیماری استفاده   می‌کند. این هفته، به بررسی شیوع در ایالات متحده آمریکا می پردازیم‫.‬ برای اکثر نقاط آمریکا، ما شواهدی مبنی بر ورود   چندباره ویروس با منشأهایی از نقاط مختلف خارجی و داخلی یافته ایم‫.‬ این داده ها تاکید می‌کنند که تصمیم‌هایی که یک ایالت "اتخاذ می‌کند، عمیقا بر روی سرنوشت باقی ایالت ها هم تاثیرگذار است‫.‬
 
 ---
 
@@ -33,30 +39,30 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [فهرست مطالب](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [منابع پیش زمینه](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [درباره این داده‌ها](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [به‌روزرسانی گزارش نیویورک](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [به‌روزرسانی گزارش کالیفرنیا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [به‌روزرسانی گزارش ایالت‌های میانه غربی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [به‌روزرسانی گزارش غرب رشته‌کوههای راکی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [کارهای که شما می‌توانید انجام دهید](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# خلاصه اجرایی
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+در اینجا ما ۱۳۴۷ داده ژنتیکی سارس-کووید-۱۹ از ایالات متحده آمریکا را بررسی می‌کنیم. با مقایسه این داده‌های ژنتیکی، می‌توانیم مشخص کنیم که کووید-۱۹ چگونه در جهان منتشر می‌شود و در مناطق محلی سرایت می‌کند. در به‌روزرسانی این هفته گزارش می‌کنیم:
 
-* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* The outbreak in California is related to both nearby Washington State and distant New York.  
-* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
-
+* شیوع نیویورک منشأ جهانی دارد، اما اکثر بیماران قابل انتساب به ورود ویروس از اروپا هستند.      
+* در شیوع نیویورک، منشأهای بیماری در ۵ منطقه اصلی شهر نیویورک درهم‌آمیخته هستند.
+* شیوع کالیفرنیا هم به شیوع در ایالت واشنگتن و هم به شیوع در نیویورک مرتبط است.
+* شیوع در ایالت‌های میانه غربی ناهمگون بوده و ناشی از ورود ویروس به منطقه، از منشأهای مستقل از هم است.
+* شیوع‌های در حال حاضر ایالت‌های یوتاه و آیداهو به هم وابسته اند.
+* تصمیم‌هایی که یک ایالت اتخاذ می‌کند، عمیقا بر روی سرنوشت باقی ایالت ها هم تاثیرگذار است. پایان دادن امن به برخی محدودیت‌ها در هر ایالت، نیازمند مهار هماهنگ شده با تمامی ایالت‌ها برای حفاظت از یکدیگر است. 
+  
 
 ```
 
@@ -64,131 +70,142 @@ We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [منابع کووید-۱۹](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+ما در اینجا منابع گوناگون دیگری گردآوری کرده‌ایم که تفسیر داده‌های ارائه شده در این گزارش را آسان‌تر می‌کند. 
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Nextstrain منابع   
+* [از اینجا شروع کنید: چگونه درخت‌های ژنتیکی را بخوانید](https://nextstrain.org/narratives/trees-background/).  
+* [پیش‌زمینه در مورد ویروس کرونا](https://nextstrain.org/help/coronavirus/human-CoV).
+* [باور‌های نادرست متداول](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+
+#### منابع فراتر    
+* [از یک دانشمند بپرسید و سوالات متداول](https://covid19.fas.org/l/en).
+* [گزارش وضعیت سازمان بعداشت جهانی](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC منابع](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [پوشش خبری مجله نیویورک تایمز در‌ارتباط با همه‌گیری کووید ۱۹](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [یادداشتی در مورد نمونه‌گیری](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+ما در حال حاضر از ۳۶ ایالت نمونه‌های توالی ژنتیکی داریم. این یک دست‌آورد باور نکردنی است به این خاطر که نمونه‌گیری از توالی ژنتیکی یک ویروس بزرگ آر‌ان‌ای ناشناخته در وسط یک همه‌گیری جهانی دشوار است و فقط با تلاش باورنکردنی و به اشتراک‌گذاری به موقع داده‌ها توسط دانشمندان و پزشکان در سراسر جهان امکان‌پذیر است.
+
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+در حالی که این داده‌ها به ما این امکان را می‌دهد که بسیاری از خصوصیات مهم این شیوع را استنباط کرده و موقعیت زمانی و مکانی آن را ردیابی کنیم، تأکید می‌شود که نتیجه‌گیری‌های ما محدود به داده‌های موجود است. 
+
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+به عنوان مثال، بر روی نقشه نمونه‌های توالی ژنتیکی بسیار کمی از ایالت‌های مرکزی آمریکا نشان داده شده است. این به این دلیل نیست که کووید-۱۹ در این مناطق پخش نمی‌شود یا این موارد برای درک ما از شیوع ویروس چندان مهم نیستند، بلکه نشان می‌دهد ما داده‌های زیادی از این مناطق نداریم. اندازه‌ی هر دایره روی نقشه نشان می‌دهد که چه مقدار داده در حال حاضر از آن منطقه در دسترس است و به معنای گستره‌ی همه‌گیری نیست.
+
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+دسته اصلی بیماران در نیویورک به شیوع در اروپا مرتبط هستند
+# [دسته اصلی بیماران در نیویورک به شیوع در اروپا مرتبط هستند](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+همانطور که در  [اخبار این هفته](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html) , خوانده‌اید، بسیاری از نمونه‌های گرفته‌شده از نیویورک (رنگی) به طور نزدیکی در ارتباط با نمونه‌های اروپایی هستند (طوسی).
+
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+دسته ویروسی مرتبط با نیویورک، هم در کنار نمونه‌‌های توالی ژنتیکی اروپا و هم در میان آنها قرار گرفته‌اند. این بیانگر آن است که اغلب بیمارهای اولیه توسط افرادی که از اروپا آمده اند، مبتلا شدند.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
-
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+# [نفرات متعددی واردکننده‌ی بیماری به نیویورک بوده‌اند](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+سهم قابل توجهی از همه‌گیری در نیویورک توسط افراد مبتلا از اروپا وارد شده‌است. با‌این وجود، نمونه‌های توالی ژنتیکی گرفته‌شده از سایر نقاط جهان نشان می دهد که ویروس از نقاط دیگری هم وارد نیویورک شده است. با در نظر گرفتن شلوغی و اهمیت شهر‌، می‌توان گفت که در نیویورک بیمارانی هستند که به طور نزدیکی با نمونه‌های توالی ژنتیکی گرفته شده از تمامی نقاط جهان در ارتباط هستند.
 <br><br>
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+اولین بیماران در نیویورک نشان دهنده ابتلا توسط مسافران واردشده به شهر هستند. با گذشت زمان، شاهد ادغام و ترکیب بسیاری از نمونه‌های اروپایی و نیویورکی بودیم که فهم و بررسی جهت انتقال را سخت کرده‌اند. همانطور که[هفته گذشته](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11)
+گزارش کردیم، شواهدی مبنی بر ورود مجدد بیماری از آمریکا به اروپا و آسیا وجود دارد.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
-
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+# [ادغام بیماران در هر ۵ منطقه نیویورک](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+در شهر نیویورک، ما جدایی بسیار اندکی میان بیماران بر‌اساس منطقه می‌بینیم. این نشان‌دهنده ادغام کیس ها در تمام سطح شهر است.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
-
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+# [شیوع و همه‌گیری در ایالت کالیفرنیا به ایالات نزدیک و دور مرتبط است](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+ما هم‌چنین شواهدی مبنی بر ورودهای متعدد ویروس میان ایالت‌ها داریم. برای مثال، بیماران در کالیفرنیا در تمام نواحی درخت توالی ژنتیکی گسترده شده‌اند و با نمونه‌هایی از هر دو ایالت نزدیک واشنگتن و ایالت دورتر نیویورک در یک گروه قرار می‌گیرند. این شاهدی مبنی بر انتقال میان کالیفرنیا و ایالات نزدیک و دور از آن است.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
-
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+# [شیوع در ایالت‌های میانه غربی توسط تعداد کثیری معرف ویروس بوده‌است](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+با در نظر‌گرفتن نمونه‌های توالی ژنتیکی از ایالت‌های میانه غربی می توان گستردگی همگن این نمونه‌ها را به جای گروه شدن آن‌ها در درخت مشاهده کرد. این بیانگر این است که تعداد کثیری معرف مستقل ویروس همراه با حلقه های مختلف انتقال در این ایالت ها وجود داشته‌است. 
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [شیوع های مرتبط در غرب رشته‌کوه‌های راکی](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+تعداد کثیری معرفی ویروس در غرب رشته‌کوه‌های راکی وجود داشته‌است. با بررسی دقیق تر می توان یک حلقه انتقال مشخص را در تمامی ایالت آیداهو مشاهده کرد. قابل توجه‌است که این گروه از نمونه ها، در کنار گروهی از بیماران از ایالت یوتاه قرار می‌گیرند. این نشان‌دهنده رابطه نزدیکی میان دو شیوع است.
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Wear a mask in public.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [کارهایی که شما می‌توانید انجام دهید
+](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...به عنوان یک فرد
+* فاصله اجتماعی را رعایت کنید، مخصوصا اگر جز گروه‌های آسیب‌پذیر هستید.
+* در مکان‌های عمومی ماسک بزنید.
+* به خاطر داشته باشید که حتی اگر شما در گروه‌های آسیب‌پذیر نیستید، بسیاری از اطرافیان شما آسیب‌پذیرند. برای مراقبت از دیگران توصیه‌ها را رعایت کنید.
+* دست‌هایتان را بشویید، درست مانند زمانی که تسمه کولرتان را عوض کرده‌اید 
+* تا جایی که می توانید در خانه بمانید، مخصوصااگر بیمار هستید. با مقداری آذوقه‌ی اضافی خود را برای قرنطینه شخصی آماده کنید. 
+* اگر کارفرما هستید، کارمندان خود را ترغیب کنید که تا جایی که امکان‌پذیر است از خانه کار کنند.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+
+#### ...به عنوان یک مسئول رسمی 
+* فرایند تست گیری را رایگان و گسترده کنید. 
+* فاصله‌گیری اجتماعی را در دستور کار قرار دهید.  
+* از اجرای گسترده رهگیری افراد در تماس با مبتلایان، حمایت مالی کنید.  
+* از کسانی که به واسطه فاصله گیری اجتماعی تحت تاثیر قرار می‌گیرند، حمایت مالی کنید.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# نتیجه‌گیری
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+* ورود ویروس از اروپا هسته‌ی اصلی شیوع  نیویورک است، البته ویروس از نقاط دیگر دنیا هم به نیویورک وارد شده است.
+
 <br><br>
-* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
+* با پیشروی شیوع، ما شواهدی مبنی بر ورود مجدد ویروس از آمریکا به اروپا و آسیا را مشاهده می‌کنیم.
+
 <br><br>
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.
+*  در شیوع نیویورک، منشأهای بیماری در ۵ منطقه اصلی شهر نیویورک درهم‌آمیخته هستند.
+
+<br><br
+* شیوع کالیفرنیا هم به شیوع در ایالت واشنگتن و هم به شیوع در نیویورک مرتبط است.
+
 <br><br>
-* The outbreak in California is related to both nearby Washington State and distant New York.
+* شیوع در ایالت‌های میانه غربی ناهمگون بوده، و زنجیر‌ه‌های انتقال متعددی در منطقه در جریان است. 
+
 <br><br>
-* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
+* شیوع‌ در ایالت‌های یوتاه و آیداهو به هم وابسته‌اند، و در هر دو انتقال منطقه‌ای در جریان است.
+
 <br><br>
-* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
-<br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+
+* تصمیم‌هایی که یک ایالت اتخاذ می‌کند، عمیقا بر روی سرنوشت باقی ایالت‌ها هم تاثیرگذار است. پایان دادن امن به برخی محدودیت‌ها در هر ایالت، نیازمند مهار هماهنگ شده با تمامی ایالت‌ها برای حفاظت از یکدیگر است.
+ 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
-
 
 
 
@@ -197,20 +214,18 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [[اعتبار علمی](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+ما از تلاش شگفت‌انگیز و به موقع انجام‌شده‌ی همه‌ی دانشمندان در حال کار بر روی این همه‌گیری جهانی و به ویژه افرادی که در کشور چین کار می‌کنند قدردانی می‌کنیم، که با به اشتراک‌ گذاری سریع داده‌های ژنتیکی و داده‌های آماری خود تحلیل‌های این‌ چنینی را برای ما ممکن می‌سازد.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+با سپاس و قدردانی از [GISAID](https://gisaid.org) برای در اختیار گذاشتن این پلتفرم که از طریق آن داده‌ها بارگذاری و به اشتراک گذاشته‌ می شوند. 
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-
-We are grateful for the data gathered by these originating labs:
+ ما از آزمایشگاه‌های زیر که در جمع‌آوری این داده‌ها نقش داشته‌اند سپاسگزاریم:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
