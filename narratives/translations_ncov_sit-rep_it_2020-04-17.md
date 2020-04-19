@@ -242,14 +242,17 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+<!--  # [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)-->
+# [Ringraziamenti scientifici](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+<!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
+Only through the rapid sharing of genomic data and metadata are analyses such as these possible.-->
+Ringraziamo tutti gli scienziati al lavoro su questa epidemia, e in particolare quelli che lavorano in Cina, per lo straordinario e tempestivo lavoro fatto. È solo attraverso la rapida condivisione di dati e metadati genomici che analisi come questa sono possibili.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+<!-- We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.-->
+Siamo anche grati a [GISAID](https://gisaid.org) per aver fornito la piattaforma su cui questi dati sono stati caricati e condivisi.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
