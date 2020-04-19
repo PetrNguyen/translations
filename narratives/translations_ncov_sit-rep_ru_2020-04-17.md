@@ -145,9 +145,9 @@ abstract: "Этот еженедельный отчет использует о�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [Взаимосвязанные вспышки в Горных Штатах](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+Также было несколько ввозов в Горные Штаты (Запад от Скалистых Гор). Приблизив ближе, мы видим хорошо различимую цепочку передач проходящую через Айдахо. Промечательно, что этот набор случаев окружен кластером случаев из Юты, демонстрируя тесную связь между этими двумя вспышками.
 
 <!-- This is no right-side text -->
 
