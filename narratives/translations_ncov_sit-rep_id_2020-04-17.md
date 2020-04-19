@@ -37,16 +37,16 @@ abstract: "Laporan mingguan ini menggunakan data genom yang terbuka untuk melaca
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [Daftar Isi](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Bacaan latar belakang](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [Perihal data ini](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [Pembaruan untuk New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [Pembaruan untuk California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [Pembaruan untuk Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [Pembaruan untuk Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [Apa yang Anda dapat lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [Pengakuan ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
