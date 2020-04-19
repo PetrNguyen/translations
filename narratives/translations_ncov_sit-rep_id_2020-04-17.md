@@ -108,12 +108,11 @@ Klaster New York diapit oleh dan berselang-seling dengan sekuens-sekuens dari Er
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [Introduksi berulang ke New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+Mayoritas perebakan di New York disebabkan oleh introduksi dari Eropa (sekali atau lebih dari sekali). Namun demikian, sekuens kontekstual dari daerah lain di dunia memungkinkan kami untuk melihat introduksi tambahan selanjutnya ke New York City. Karena kota ini bersifat kosmopolitan, sejumlah kasus di New York terkait erat dengan sampel dari setiap wilayah lain di dunia.
 <br><br>
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+Kasus-kasus awal New York kemungkinan merupakan penularan masuk ke Amerika Serikat. Seiring dengan berkembangnya perebakan, kita melihat jauh lebih banyak pencampuran antara sampel Eropa dan New York, membuat arah penularan selanjutnya kurang jelas. Sebagaimana kami laporkan [pekan lalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), ada juga bukti terjadinya reintroduksi belakangan ini dari AS ke Eropa dan Asia.
 
 <!-- There is no right side text -->
 
