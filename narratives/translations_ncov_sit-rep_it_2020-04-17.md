@@ -143,13 +143,16 @@ Il clade di New York è affiancato e intervallato da sequenze del virus provenie
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+<!-- # [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)-->
+# [Multiple introduzioni del virus a New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+<!--The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.-->
+La maggior parte dei focolai di New York sono derivati da introduzioni del virus dall' Europa. Ma le sequenze dello stesso periodo provenienti da altre regioni del mondo ci consentono di vedere che ci sono state ulteriori introduzioni a New York City. Fedele alla sua natura cosmopolita, ci sono casi a New York strettamente correlati a sequenze provenienti da ogni parte del mondo.
 <br><br>
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
-
+<!--The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
+direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.-->
+I primi casi a New York rappresentano probabilmente trasmissioni in entrata. Successivamente, vediamo molti più mix tra campioni europei e newyorkesi, rendendo la comprensione della direzione delle trasmissioni successive è meno chiara.
+Come abbiamo riportato [la settimana scorsa](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-04-10?n=11), ci sono evidenze di rintroduzione del virus dagli Stati Uniti all'Europa e l'Asia.
 <!-- There is no right side text -->
 
 
