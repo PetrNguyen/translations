@@ -130,11 +130,14 @@ Ad esempio, la cartina mostra poche sequenze dagli Stati Uniti centrali. Questo 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+<!-- # [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)-->
+# [Clade principale di New York legata allo scoppio europeo](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+<!-- As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).-->
+Come potresti aver visto [nelle notizie di questa settimana](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), la maggior parte dei campioni virali provenienti da New York (a colori) si raggruppa strettamente con campioni provenienti dall'Europa (in grigio).
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+<!--  The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.-->
+Il clade di New York è affiancato e intervallato da sequenze del virus provenienti dall'Europa, il che suggerisce fortemente come la maggior parte dei primi casi derivi da introduzioni del virus dall'Europa.
 <!-- There is no right side text -->
 
 
