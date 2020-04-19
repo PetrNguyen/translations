@@ -59,17 +59,25 @@ abstract: Questo rapporto usa dati genomici virali pubblicamente condivisi per t
 * [Ringraziamenti scientifici](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+<!-- # Executive summary -->
+# Sommario
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+<!-- We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  -->
+Abbiamo analizzato 1347 genomi condivisi pubblicamente del virus SARS-Cov-2 provenienti dagli Stati Uniti. Confrontando questi genomi virali tra loro, possiamo caratterizzare come il virus SARS-CoV-2 si sta spostando nel mondo e si sta diffondendo all'interno delle comunità. Questa settimana, riportiamo: 
 
-* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* The outbreak in California is related to both nearby Washington State and distant New York.  
-* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
 
+<!-- * The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe. -->   
+* L'epidemia a New York ha origini cosmopolite, ma la maggior parte dei casi è attribuibile a introduzioni del virus dall'Europa.
+<!-- * The outbreak in New York City shows mixing of cases across all 5 boroughs.  -->   
+* La diffusione dell'epidemia a New York City mostra un mix di casi in tutti e 5 i distretti. 
+<!-- * The outbreak in California is related to both nearby Washington State and distant New York.-->   
+* L'epidemia in California è legata sia al vicino stato di Washington che al lontano stato di New York. 
+<!-- * The Midwest outbreak is heterogeneous and is the result of many independent introductions.-->  
+* L'epidemia negli Stati Uniti medio occidentali è etereogenea è ed il risultato di molte introduzioni indipendenti del virus. 
+<!-- * Ongoing outbreaks in Utah and Idaho are closely related.-->  
+* I focolai in atto nello Utah e nell'Idaho sono strettamente correlati.
+<!-- * The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.-->  
+* Le decisioni prese dai singoli stati ha un profondo impatto sul destino degli altri. Un rilassamento in sicurezza delle misure di restrizione in atto in ogni stato richiederà un contenimento coordinato, con tutti gli stati che agiscono per proteggersi l'un l'altro.
 
 ```
 
