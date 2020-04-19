@@ -158,9 +158,12 @@ Come abbiamo riportato [la settimana scorsa](https://nextstrain.org/narratives/n
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+<!-- # [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)-->
+# [Mescolamento dei casi da tutti e 5 i distretti di New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+<!-- Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.-->
+All'interno della città di New York, osserviamo poca segregazione dei casi per distretto. Ciò è coerente con la frequente mescolanza di casi in tutta la città.
+
 <!-- This is no right-side text -->
 
 
