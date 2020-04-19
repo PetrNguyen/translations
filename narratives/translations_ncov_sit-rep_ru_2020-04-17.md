@@ -19,7 +19,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: 
   - Varvara Kozyreva
+  - 
 translatorLinks:
+  - https://www.linkedin.com/in/varvara-kozyreva-374aa877/
+  - 
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "17 Апреля 2020"
