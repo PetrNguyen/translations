@@ -104,7 +104,6 @@ abstract: "این گزارش‌های هفتگی از داده‌های کووی
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-دسته اصلی بیماران در نیویورک به شیوع در اروپا مرتبط هستند
 # [دسته اصلی بیماران در نیویورک به شیوع در اروپا مرتبط هستند](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
 همانطور که در  [اخبار این هفته](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html) , خوانده‌اید، بسیاری از نمونه‌های گرفته‌شده از نیویورک (رنگی) به طور نزدیکی در ارتباط با نمونه‌های اروپایی هستند (طوسی).
