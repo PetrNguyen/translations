@@ -119,17 +119,17 @@ abstract: "Этот еженедельный отчет использует о�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [Перемешивание случаев из 5-ти районов Нью Йорка](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+Внутри Нью Йорка мы не видим значительного разделения случаев по районам. Это находится в согласии с частым перемешиванием случаев в пределах городу.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [Калифорнийская вспышка связанная одновременно с близкими и отдаленными штатами](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+У нас также есть доказательства многочисленных заносов между штатами. Например, случаи из Калифорнии охватывают генетическое разнообразие всего дерева, группируясь вместе с образцами как из соседнего штата Вашингтон, так и из Нью Йорка. Это доказывает перенос между Калифорнией и одновременно близлежащими и отдаленными штатами.
 
 <!-- This is no right-side text -->
 
