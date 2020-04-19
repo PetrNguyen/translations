@@ -173,21 +173,21 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Выводы
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+* Привнесения из Европы дали начало большинству вспышек в Нью Йорке, однако заносы из других регионов мира также имели место.
 <br><br>
-* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
+* По мере развития вспышки мы также видим доказательства повторных заносов из США в Европу и Азию.
 <br><br>
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.
+* Вспышка в Нью Йорке демонстрирует перемешивание случаев между всеми 5-тью районами города
 <br><br>
-* The outbreak in California is related to both nearby Washington State and distant New York.
+* Вспышка в Калифорнии одновременно связана с соседним штатом Вашингтон и далеким Нью Йорком. 
 <br><br>
-* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
+* Вспышка на Среднем Западе разнородна, с многочисленными цепями передач циркулирующими в регионе.
 <br><br>
-* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
+* Вспышки в штатах Ютя и Айдахо близкородствены, с продолжающейся передачей среди населения. 
 <br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* Решения принимаемые каждым штатов сильнейшим образом сказываются на судьбе других штатов. Безопасное послабление ограничительных мер в любом штате потребует согласованного сдерживания, при котором действия всех штатов направлены на взаимную защиту.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
