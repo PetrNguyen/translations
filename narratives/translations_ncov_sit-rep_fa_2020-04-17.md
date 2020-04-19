@@ -29,7 +29,7 @@ licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "هفدهم آوریل ۲۰۲۰"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
 abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
-abstract: "این گزارش‌های هفتگی از داده‌های کووید-۱۹ که در اختیار عموم گذاشته‌شده برای بررسی شیوع این بیماری استفاده   می‌کند. این هفته، به بررسی شیوع در ایالات متحده آمریکا می پردازیم‫.‬ برای اکثر نقاط آمریکا، ما شواهدی مبنی بر ورود   چندباره ویروس با منشأهایی از نقاط مختلف خارجی و داخلی یافته ایم‫.‬ این داده ها تاکید می‌کنند که تصمیم‌هایی که یک ایالت "اتخاذ می‌کند، عمیقا بر روی سرنوشت باقی ایالت ها هم تاثیرگذار است‫.‬
+abstract: "این گزارش‌های هفتگی از داده‌های کووید-۱۹ که در اختیار عموم گذاشته‌شده برای بررسی شیوع این بیماری استفاده می‌کند. این هفته، به بررسی شیوع در ایالات متحده آمریکا می پردازیم‫.‬ برای اکثر نقاط آمریکا، ما شواهدی مبنی بر ورود   چندباره ویروس با منشأهایی از نقاط مختلف خارجی و داخلی یافته ایم‫.‬ این داده ها تاکید می‌کنند که تصمیم‌هایی که یک ایالت "اتخاذ می‌کند، عمیقا بر روی سرنوشت باقی ایالت ها هم تاثیرگذار است‫.‬
 
 ---
 
