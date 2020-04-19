@@ -19,7 +19,7 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: 
   - Varvara Kozyreva
-  - 
+  - Daniel Taliun
 translatorLinks:
   - https://www.linkedin.com/in/varvara-kozyreva-374aa877/
   - 
@@ -200,20 +200,20 @@ abstract: "Этот еженедельный отчет использует о�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [Благодарности научному сообществу](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Мы хотели бы отметить удивительную и своевременную работу всех ученых, вовлеченных в исследование этой эпидемии, особенно тех, кто работает в Китае.
+Только благодаря быстрому обмену генетическими данными и метаданными стали возможны анализы, подобные этому
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Мы хотели бы поблагодарить [GISAID](https://gisaid.org) за предоставление платформы, через которую эти данные могут быть загружены и распространены.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Мы благодарим следующие лаборатории за собранные исходные данные:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -683,19 +683,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Детальные благодарности научному сообществу](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Эти данные были распространены через [GISAID](https://gisaid.org).
+Мы глубоко благодарны за их вклад.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Справа мы приводим детальный список последовательностей генома, предоставленных каждой из лабораторий.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Геномы SARS-CoV-2 были щедро предоставлены учеными из следующих лабораторий:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
