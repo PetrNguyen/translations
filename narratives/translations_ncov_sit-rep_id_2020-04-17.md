@@ -68,14 +68,14 @@ Kami menganalisis 1.347 genom SARS-CoV-2 dari AS yang tersedia untuk publik. Den
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Sumber Daya COVID-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+Kami telah menyiapkan beberapa sumber daya yang dapat mempermudah penafsiran yang ditampilkan pada uraian ini.
+#### Sumber Daya Nextstrain  
+* [MEMULAI: Cara membaca filogeni](https://nextstrain.org/narratives/trees-background/).  
+* [Latar belakang mengenai koronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Kesalahpahaman umum](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
+#### Sumber Daya Luar  
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -86,12 +86,12 @@ We've prepared some resources that will make interpreting the data we present in
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Catatan mengenai sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+Saat ini kami memiliki sekuens dari sampel-sampel yang dikumpulkan dari 36 negara bagian. Ini merupakan pencapaian yang luar biasa -- sekuensing terhadap virus RNA besar yang tidak diketahui di tengah pandemi tidaklah mudah, dan hanya dapat dilakukan melalui kerja keras dan pembagian data oleh para ilmuwan dan dokter di seluruh dunia.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Sementara data ini memungkinkan untuk menyimpulkan karakteristik wabah dan melacak penyebarannya seketika, perlu ditekankan bahwa kesimpulan kami terbatas pada data yang tersedia.
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Sebagai contoh, peta menunjukkan sekuens yang relatif sedikit dari wilayah tengah AS. Ini BUKAN berarti karena COVID-19 tidak mewabah di wilayah ini atau bahwa kasus ini tidak penting untuk dipelajari; namun karena kami tidak memiliki data yang memadai untuk wilayah ini. Ukuran lingkaran pada peta menandakan banyaknya data yang tersedia dari wilayah itu, bukan ukuran wabah yang sebenarnya.
 
 <!-- There is NO right-side text -->
 
