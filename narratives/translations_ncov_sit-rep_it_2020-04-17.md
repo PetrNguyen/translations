@@ -44,7 +44,7 @@ abstract: Questo rapporto usa dati genomici virali pubblicamente condivisi per t
 <!--* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).-->
 * [Risorse di base](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).  
 <!--* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).-->
-* [Riguardo questi dati](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [Una nota sulla raccolta dei campioni](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
 <!--* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).-->
 * [Aggiornamenti su New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
 <!--* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).-->
@@ -114,12 +114,16 @@ Abbiamo preparato alcune letture che aiuteranno a capire più facilmente i dati 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+<!-- # [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)-->
+# [Una nota sulla raccolta dei campioni](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+<!-- We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.-->
+Al momento abbiamo sequenze raccolte in 36 stati dell'America del Nord. Questa è un'impresa incredibile, sequenziare un virus con un RNA così grande e sconosciuto nel bel mezzo di una pandemia è difficile ed è stato possibile solamente grazie all'incredibile sforzo e la tempestiva condivisione dei dati da parte di scienziati e medici in tutto il mondo.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+<!-- While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.-->
+Anche se questi dati ci permettono di inferire statisticamente molte utili caratteristiche dell'epidemia e di tracciare la sua evoluzione in tempo reale, è però importante sottolineare che le nostre conclusioni sono limitate dalla disponibilità di dati.
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+<!-- For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.-->
+Ad esempio, la cartina mostra poche sequenze dagli Stati Uniti centrali. Questo non perché il COVID-19 non stia circolando in queste aree, o perché questi casi non siano importanti per capire la diffusione del virus; semplicemente non abbiamo molti dati disponibili per queste aree. La dimensione di ogni cerchio sulla mappa indica quanti dati sono attualmente disponibili per quell'area, piuttosto che la vera dimensione dell'epidemia.
 
 <!-- There is NO right-side text -->
 
